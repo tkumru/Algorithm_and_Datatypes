@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\Array and Collections.exe
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\Array and Collections.deps.json
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\Array and Collections.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\Array and Collections.dll
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\ref\Array and Collections.dll
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\bin\Debug\net6.0\Array and Collections.pdb
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.dll
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\ref\Array and Collections.dll
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.pdb
+C:\Users\talha\OneDrive\Masaüstü\Talha Nebi Kumru\C# Programlama Dili\BTK Akademi\Advanced Level of Algorithm and Data Types\Array and Collections\obj\Debug\net6.0\Array and Collections.genruntimeconfig.cache
